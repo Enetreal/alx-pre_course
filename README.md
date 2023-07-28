@@ -1,4 +1,4 @@
-My first readme
+My first readme updated
 echo 'My first readme' > README.md
 cat READ.me
 git config --global user.email "wizzarddguru@gmail.com"
